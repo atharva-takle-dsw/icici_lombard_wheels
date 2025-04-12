@@ -1,0 +1,37 @@
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}
+
+.watermark {
+    visibility: hidden !important;
+    position: relative !important;
+}
+
+.watermark::after {
+    content: "Copyright © 2024 Data Science Wizards Private Limited. All Rights Reserved." !important;
+    visibility: visible !important;
+    color: #a0a0a0 !important;
+    font-family: Comfortaa !important;
+    font-size: 14px !important;
+    position: absolute !important;
+    text-align: center !important;
+    width: 100% !important;
+    top: 5px !important;
+}
+
+.css-1705j0v {
+    width: 100%;
+}
+
+a[href*='/readme'] {
+    visibility: hidden;
+}
+
+p[aria-label*='SSaGPT'] {
+    width: max-content;
+}
+
+
+p{
+    line-height: 175%;
+}
