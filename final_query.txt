@@ -1,5 +1,4 @@
 
-<s>[INST]
 You are an expert assistant representing **ICICI Lombard** company. Your task is to answer any general questions or specific queries related only to **ICICI Lombard**. Additionally, use the chat history to maintain context for ongoing conversations.
 # **Instructions:**
 
@@ -50,99 +49,8 @@ You are an expert assistant representing **ICICI Lombard** company. Your task is
 
 # **Context:**
 # <Context>
-# **ICICI** context:
-Scroll Up
+# No relevant context found.
 
-Products
-
-- [Motor Insurance](/motor-insurance#products)
-- [Car Insurance](/motor-insurance/car-insurance#coverage)
-- [Two Wheeler\\
-Insurance](/motor-insurance/two-wheeler-insurance#coverage)
-- [Health Insurance](/health-insurance#products)
-- [Health AdvantEdge](/health-insurance/health-advantedge)
-- [Health Booster](/health-insurance/health-booster#coverage)
-- [Personal Accident Insurance](/health-insurance/personal-accident-insurance#coverage)
-- [International Travel Insurance](/travel-insurance#products)
-- [Home Insurance](/home-insurance#coverage)
-- [Marine Insurance](/marine-insurance)
-- [NRI Insurance Services](/nri-insurance)
-- [Business Insurance](/business-insurance)
-- [Crop Insurance](/crop-insurance)
-- [Rural Insurance](/rural-insurance)
-- [Cyber Insurance](/cyber-insurance)
-
-Info Centre
-
-- [Expert Blog](/experts-blogs)
-- [Insurance Information](/insurance-information)
-
-PMFBY
-
-- [![Pradhan Mantri Fasal Bima Yojana](/images/default-source/default-album/pmfby.png)\\
-Pradhan Mantri Fasal\\
-\\
-Bima Yojana](/crop-insurance )
-Toll free no: 1800 266 9725
-
-
-
-Services
-
-- [Customer Support](/customer-support-old)
-- [Grievance Redressal](/grievance-redressal)
-- [Retrieve Quote](/manage-your-policy/search-quote)
-- [Unclaimed Amount](https://www.icicilombard.com/IL-Health-Care/Home/UnclaimedAmount)
-- [Intimate Claim](https://www.icicilombard.com/IL-Health-Care/Customer/ClaimIntimationOnlineTracking)
-- [Track Claim](https://app4.icicilombard.com/ucvselfhelp/(S(0c4nypkepjoazqvnkij1kzzf))/ucvwebappln/ucvnewclaimsearch.aspx)
-- [Marine/Property Claims](https://app3.icicilombard.com/claimstracker/trackclaim.aspx)
-- [Live Chat](javascript:void();)
-- [Renew Your Policy](/renew-policy)
-- [Whatsapp Notification](/whatsapp-opt-out)
-- [EIA](/electronic-insurance-account)
-- [Customer Feedback](/feedback)
-- [Contact Us](https://www.icicilombard.com/)
-
-### Tools & Calculators
-
-Mobile
-
-- **IL Take Care App**
-- ![istore img](/includes/images/android_icon.png)
-- ![android img](/includes/images/i_store.png)
-
-Legal
-[iframe](about:blank)
-
-24x7 [1800 2666](tel:1800 2666)
-
-Live Chat
-
-[About Us](/about-us) [Careers](/careers)
-
-- [My dashboard](/manage-your-policy/dashboard)
-- Logout
-- Last Login :
-
-[Click to view old Website](http://www.icicilombard.com)
-
-## Live Chat
-
-May I help you?
-
-![](/includes_new/images/online.gif)
-
-Begin Chat
-
-![Corporate Announcements](/images/default-source/Banners/agent_form_banner.jpg?sfvrsn=2)
-
-Corporate Announcements
-
-- [General Insurance By ICICI Lombard](/ "General Insurance By ICICI Lombard") ❯
-- [About Us](../about-us "About Us") ❯
-- [Corporate Announcements](javascript: void(0) "Corporate Announcements")
-
-### Corporate Announcements
 # </Context>
 
 # **Chat History:**
@@ -150,8 +58,5 @@ Corporate Announcements
 # []
 # </Chat History>
 
-# Question: hiii
-
-[/INST]</s>
-
+# Question: hi
 # 
